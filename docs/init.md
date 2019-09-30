@@ -1,10 +1,10 @@
 
 ## 关于
-[基于Vue CLI3 搭建五脏俱全的移动端H5应用：](https://juejin.im/post/5d674d87e51d4561fa2ec0a6#heading-12)
-[源码地址：](https://github.com/now1then/vue-h5-pro)
-[博客地址：](https://www.yuque.com/nowthen/longroad/gyffxo)
+- [基于Vue CLI3 搭建五脏俱全的移动端H5应用](https://juejin.im/post/5d674d87e51d4561fa2ec0a6)
+- [源码地址](https://github.com/now1then/vue-h5-pro)
+- [博客地址](https://www.yuque.com/nowthen/longroad/gyffxo)
 
-本项目是基于 now1then/vue-h5-pro 二次开发搭建的
+本项目是基于 now1then/vue-h5-pro 二次开发搭建的，thanks...
 
 ### 目录结构
 ![](/public/目录结构.png)
